@@ -1,0 +1,53 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                    Test Method: 'FaceBook.tests.OrangeTests'                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Text cleared Using Native Clear @06-02-2025 19:39:26.0177 PM
+[ReportManager] Type "Admin" into "Username". @06-02-2025 19:39:26.0326 PM
+[ReportManager] Text cleared Using Native Clear @06-02-2025 19:39:26.0472 PM
+[ReportManager] Type "admin123" into "Password". @06-02-2025 19:39:26.0533 PM
+[ReportManager] Moved the mouse to the middle of the element. @06-02-2025 19:39:26.0727 PM
+[ReportManager] Click "Login". @06-02-2025 19:39:27.0892 PM
+[ReportManager] Moved the mouse to the middle of the element. @06-02-2025 19:39:28.0749 PM
+[ReportManager] Click "By.xpath: //a[@class='oxd-main-menu-item']//span[contains(., 'Admin')]". @06-02-2025 19:39:29.0548 PM
+[ReportManager] Get text "(10) Records Found" from "By.xpath: //span[contains(@class,"oxd-text--span")]//parent::div[contains(@class,"orangehrm-horizontal-padding orangehrm-vertical-padding")]". @06-02-2025 19:39:30.0432 PM
+[ReportManager] Moved the mouse to the middle of the element. @06-02-2025 19:39:30.0660 PM
+[ReportManager] Click " Add". @06-02-2025 19:39:31.0320 PM
+[ReportManager] Moved the mouse to the middle of the element. @06-02-2025 19:39:32.0087 PM
+[ReportManager] Click "By.xpath: //label[contains(.,'User Role')]/../following-sibling::div". @06-02-2025 19:39:32.0304 PM
+[ReportManager] Moved the mouse to the middle of the element. @06-02-2025 19:39:32.0639 PM
+[ReportManager] Click "Admin". @06-02-2025 19:39:32.0823 PM
+[ReportManager] Get text "YYfnXttUDl Abbas" from "By.xpath: //span[@class='oxd-userdropdown-tab']//p". @06-02-2025 19:39:33.0003 PM
+[ReportManager] Text cleared Using Native Clear @06-02-2025 19:39:33.0279 PM
+[ReportManager] Type "YYfnXttUDl Abbas" into "Type for hints...". @06-02-2025 19:39:33.0366 PM
+[ReportManager] Explicit wait until: "presence of any elements located by By.xpath: //div[@role='option'][1]". @06-02-2025 19:39:34.0668 PM
+[ReportManager] Moved the mouse to the middle of the element. @06-02-2025 19:39:34.0836 PM
+[ReportManager] Click "YYfnXttUDl Ali Abbas". @06-02-2025 19:39:34.0936 PM
+[ReportManager] Moved the mouse to the middle of the element. @06-02-2025 19:39:35.0111 PM
+[ReportManager] Click "By.xpath: //label[contains(.,'Status')]/../following-sibling::div". @06-02-2025 19:39:35.0172 PM
+[ReportManager] Moved the mouse to the middle of the element. @06-02-2025 19:39:35.0358 PM
+[ReportManager] Click "Enabled". @06-02-2025 19:39:35.0478 PM
+[ReportManager] Text cleared Using Native Clear @06-02-2025 19:39:35.0663 PM
+[ReportManager] Type "user5218" into "By.xpath: (//label[contains(.,'Username')]//following::input)[1]". @06-02-2025 19:39:35.0764 PM
+[ReportManager] Text cleared Using Native Clear @06-02-2025 19:39:35.0927 PM
+[ReportManager] Type "P@ssw0rd" into "By.xpath: (//label[contains(.,'Password')]//following::input)[1]". @06-02-2025 19:39:35.0993 PM
+[ReportManager] Text cleared Using Native Clear @06-02-2025 19:39:36.0163 PM
+[ReportManager] Type "P@ssw0rd" into "By.xpath: (//label[contains(.,'Confirm Password')]//following::input)[1]". @06-02-2025 19:39:36.0296 PM
+[ReportManager] Moved the mouse to the middle of the element. @06-02-2025 19:39:36.0546 PM
+[ReportManager] Click "Save". @06-02-2025 19:39:36.0737 PM
+[ReportManager] Capture full screenshot @06-02-2025 19:39:38.0261 PM
+[ReportManager] Successfully created attachment 'Screenshot - captureScreenshot_19-39-38-260_06022025' @06-02-2025 19:39:38.0263 PM
+[ReportManager] Assert that the element located by "By.xpath: //div[@class='oxd-toast-start']//p[contains(.,'Successfully Saved')]" exists. @06-02-2025 19:39:38.0291 PM
+[ReportManager] Expected "true", and actual "true" @06-02-2025 19:40:16.0600 PM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_19-40-17-943_06022025' @06-02-2025 19:40:17.0950 PM
+[ReportManager] Expected "true", and actual "true" @06-02-2025 19:40:17.0951 PM
+[ReportManager] Assertion passed @06-02-2025 19:40:17.0957 PM
+[ReportManager] Assertion passed @06-02-2025 19:40:17.0964 PM
+[ReportManager] Get text "(11) Records Found" from "By.xpath: //span[contains(@class,"oxd-text--span")]//parent::div[contains(@class,"orangehrm-horizontal-padding orangehrm-vertical-padding")]". @06-02-2025 19:40:20.0684 PM
+[ReportManager] Verify that "11" is equal to "11". @06-02-2025 19:40:20.0709 PM
+[ReportManager] Expected "11", and actual "11" @06-02-2025 19:40:20.0715 PM
+[ReportManager] Expected "11", and actual "11" @06-02-2025 19:40:20.0716 PM
+[ReportManager] Verification passed @06-02-2025 19:40:20.0718 PM
+[ReportManager] Verification passed @06-02-2025 19:40:20.0724 PM
